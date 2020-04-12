@@ -1,0 +1,7 @@
+*.o
+*.stash
+*.user
+Makefile*
+*.Debug
+*.Release
+*.a
